@@ -1,8 +1,8 @@
 #!/bin/bash
 
-KEY="node"
+KEY="wallet"
 CHAINID="blockx_100-1"
-MONIKER="My_Node"
+MONIKER="vinjan"
 KEYRING="file" 
 KEYALGO="eth_secp256k1"
 LOGLEVEL="info"
